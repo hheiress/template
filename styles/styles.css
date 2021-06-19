@@ -1,0 +1,173 @@
+*{
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-image: url("/images/iphone_12_updated__jepm2xpxncuy_large.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    background-position-y:15px;
+    height: 600px;
+    margin:0px 0px 5px;
+}
+.links{
+    background-color:rgba(0, 0, 0, 92);
+    opacity:90%;
+    list-style:none;
+    padding: 0 10px;
+    line-height: 3.14286;
+    width: auto;
+    display:flex;
+    justify-content: space-around;
+    font-size:1em;
+    width:100%;
+   
+}
+
+.links a{
+    color:rgb(208, 202, 202);
+    text-decoration: none;
+    padding:20px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-description{
+    color:#1d1d1f;
+    text-align: center;
+    padding: 15px;
+    background-color:rgb(243, 245, 245) ;
+}
+.header-description a{
+    color:#06c;
+    text-decoration: none;
+}
+.header-iphone{
+    text-align: center;
+    margin:20px;
+    padding:5px;
+    line-height:2em;
+}
+.subhead-iphone{
+    font-weight: 100;
+}
+.iphone-text{
+    color:grey;
+    line-height:2em;
+}
+.iphone-links{
+    color:#06c;
+    padding:20px;
+    text-decoration: none;
+    font-size:1.2em;
+}
+.main-image{
+    text-align:center;
+    background-image:url("/images/iphone_12_pro_us__e5oyysg4k0ya_medium_2x.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 600px;
+    margin:0px 0px 5px;
+    color:white;
+    width: 100%;
+    padding:0px 10px;
+}
+.main-header{
+    padding:50px 0px 10px;
+}
+.main-subheader{
+    font-weight: 100;
+    padding:10px;
+}
+.main-description{
+    color:grey;
+    padding:20px;
+}
+.second-main-image{
+    text-align:center;
+    background-image:url("/images/hero_ipad_pro__gl982dtu49im_medium_2x.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 700px;
+    width: 100%;
+    margin:0px 0px 5px;
+    color:white;
+    padding:0px 10px;
+}
+.double-main{
+    display:flex;
+    flex-direction: row;
+    margin:10px;
+}
+.imac-image{
+    text-align:center;
+    background-image:url("/images/promo_imac__crg641tip4q6_medium_2x.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 500px;
+    width: 50%;
+    margin: 10px 10px;
+    color:black;
+    padding:0px 10px;
+}
+.watch-image{
+    text-align:center;
+    background-image:url("/images/promo_watch_series_6_lte__f8lrasjnry2y_medium_2x.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 500px;
+    width: 50%;
+    margin:10px 10px;
+    color:white;
+    padding:20px;
+}
+.watch-header{
+    padding:10px;
+}
+.watch-description{
+    padding:10px;
+}
+.watch-subheader{
+    color:red;
+    font-size:10px;
+}
+
+.event-image{
+    text-align:center;
+    background-image:url("/images/promo_wwdc21__p6pprzl4sjey_medium_2x.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 500px;
+    width: 50%;
+    margin: 0px 10px;
+    color:white;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    padding:0px 10px;
+}
+.tv-image{
+    text-align:center;
+    background-image:url("/images/promo_tile_tv4k__cbz6fpnn6kz6_medium_2x.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    height: 500px;
+    width: 50%;
+    margin:0px 10px;
+    color:black;
+    padding:20px ;
+}
+.tv-subheader{
+    color:red;
+    font-size:10px;
+    padding:30px 0px opx;
+}
+.tv-main-header{
+    margin:0px;
+}
